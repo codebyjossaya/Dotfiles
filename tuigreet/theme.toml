@@ -1,0 +1,19 @@
+[colors]
+background = "#1e1e2e"
+foreground = "#cdd6f4"
+primary = "#89b4fa"
+secondary = "#f38ba8"
+highlight = "#a6e3a1"
+error = "#f38ba8"
+
+[border]
+color = "#585b70"
+type = "rounded"
+
+[box]
+padding_x = 3
+padding_y = 2
+
+[layout]
+alignment = "center"  # or "left", "right"
+
